@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Prefix Open",
+    "description":"Prepend selection with prefix and open as URL in a new tab",
+    "version": "1.1.0.0",
+    "permissions":[
+        "contextMenus",
+        "tabs",
+        "storage"
+    ],
+    "action":{
+        "default_icon": {
+           "16": "img/icon_16.png",
+           "32": "img/icon_32.png",
+           "128": "img/icon_128.png" 
+        },
+        "default_popup": "options.html"
+    },
+    "background": {
+        "service_worker": "main.js"
+    },
+    "options_page": "options.html"
+}
