@@ -11,12 +11,16 @@ Our personal belief is that any data about you or your behavior is your personal
 So let's be perfectly clear:
 
 + **We don't have access to your IP address**
+
   The nature of our software is such that we do not have access to, and therefore cannot store, your IP address. Our software is local to the browser that runs it, and does not 'phone home'.
 + **We don't set or read any cookies**
+
   We do not set or read any cookies through the extension that can be used to track or identify you in any way.
 + **We don't ask for your details**
+
   We don't ask for your name, age, address, contact details, or passwords. We have no need or want for this information. If you contact us, we will use your contact information only to respond to you. We will never sell or share this information with anyone else.
 + **We can't hand over your data to a government**
+
   They can ask, but we cannot supply information we never had in the first place. Any request for your data will come from the relevant New Zealand authorities, and we will comply if we are legally required to do so; however, we are unlikely to receive such requests, as we don't actually have any data to hand over.
 
 ## Google Chrome Sync
